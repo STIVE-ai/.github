@@ -22,4 +22,4 @@ STIVE.ai builds and deploys AI-powered systems across marketing and sales: from 
 
 ## Work with us
 
-🌐 [stive.ai](https://stive.ai)# 
+🌐 [stive.ai](https://stive.ai)
